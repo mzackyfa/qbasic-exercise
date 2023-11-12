@@ -1,4 +1,4 @@
-### 🐱‍🏍 ExerciseQB64
+### ExerciseQB64
 Preview Code 😃 :
 ```bas
 Cls
