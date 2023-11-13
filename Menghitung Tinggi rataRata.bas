@@ -12,7 +12,7 @@ Next i%
 
 'Menghitung Tinggi Rata Rata Mahasiswa'
 Total = 0
-For i% = 1 To JumMs%
+For i% = 1 To JumMahasiswa%
     Total = Total + Tinggi(i%)
 Next i%
 
