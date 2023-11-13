@@ -1,5 +1,5 @@
 ### ExerciseQB64
-Preview Code 😃 :
+Preview Code :
 ```bas
 Cls
 '-----'
